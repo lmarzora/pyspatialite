@@ -9,3 +9,7 @@ a.out
 *.egg-info
 *.so
 MANIFEST.in
+env
+.vscode
+*.dll
+*.pyd
